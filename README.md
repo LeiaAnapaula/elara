@@ -56,10 +56,15 @@ Each document is mapped to one label per layer:
 ## Pipeline
 
 01_problem/        → task definition, taxonomy, success metrics
+
 02_data/           → raw declassified docs, annotation schema, labeled corpus
+
 03_features/       → preprocessing, TF-IDF, SPECTER embeddings, UMAP clustering
+
 04_training/       → 60/20/20 split, model experiments, SciBERT fine-tune
+
 05_evaluation/     → per-class F1, confusion matrix, error analysis
+
 06_deployment/     → FastAPI inference endpoint, drift monitoring, review queue
 
 ---
