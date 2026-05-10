@@ -24,7 +24,8 @@ Ask questions about declassified research on human consciousness, fear consolida
 identity under pressure, and peak performance. ELARA retrieves relevant documents 
 and answers through the 4-layer identity state lens.
 
-![ELARA Demo](<img width="1728" height="961" alt="Screenshot 2026-05-09 at 11 19 15 PM" src="https://github.com/user-attachments/assets/715ce37a-caf9-4c95-8e5f-f77e9a90f9f5" />)
+![ELARA Demo]<img width="1728" height="961" alt="Screenshot 2026-05-09 at 11 19 15 PM" src="https://github.com/user-attachments/assets/715ce37a-caf9-4c95-8e5f-f77e9a90f9f5" />
+
 
 
 ## What it classifies
