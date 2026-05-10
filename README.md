@@ -1,3 +1,6 @@
+[![HuggingFace Space](https://img.shields.io/badge/🤗%20HuggingFace-ELARA%20Live-blue)](https://huggingface.co/spaces/LeiaAnapaula/elara)
+[![GitHub](https://img.shields.io/badge/GitHub-LeiaAnapaula%2Felara-black)](https://github.com/LeiaAnapaula/elara)
+
 # ELARA
 
 **Cognition Research Classifier**  
@@ -12,6 +15,16 @@ Built with TF-IDF, transformer embeddings (SPECTER), and fine-tuned SciBERT.
 Output is not a topic label. It is a position in identity space.
 
 ---
+
+## Live Demo
+
+🔗 **[Try ELARA live →](https://huggingface.co/spaces/LeiaAnapaula/elara)**
+
+Ask questions about declassified research on human consciousness, fear consolidation, 
+identity under pressure, and peak performance. ELARA retrieves relevant documents 
+and answers through the 4-layer identity state lens.
+
+![ELARA Demo](https://huggingface.co/spaces/LeiaAnapaula/elara/resolve/main/preview.png)
 
 ## What it classifies
 
